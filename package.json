@@ -1,0 +1,19 @@
+{
+  "name": "react-pomodoro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/core": "^10.0.9",
+    "@emotion/styled": "^10.0.9",
+    "parcel-bundler": "^1.12.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
